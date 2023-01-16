@@ -1,0 +1,25 @@
+{
+  "name": "blorum-sdk-js",
+  "version": "1.0.0",
+  "description": "Development kit of Blorum core.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blorum/blorum-sdk-js.git"
+  },
+  "keywords": [
+    "blorum"
+  ],
+  "author": "Winslow S.E.M.",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Blorum/blorum-sdk-js/issues"
+  },
+  "homepage": "https://github.com/Blorum/blorum-sdk-js#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
